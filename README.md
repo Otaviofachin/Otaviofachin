@@ -7,10 +7,10 @@
 <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix Animation" style="max-width: 100%;">
 </div>
 
+<h2 align="center">🖥️ Linguagens e Frameworks</h2> 
 
 
 <div align="center">
-🖥️ Linguagens e Frameworks
 
   
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
